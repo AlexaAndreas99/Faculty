@@ -1,0 +1,1 @@
+This is a file with my object oriented projects (practice, testing, practical, written projects).

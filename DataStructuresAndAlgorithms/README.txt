@@ -1,0 +1,1 @@
+This is the folder with all my data structures and algorithms from faculty.

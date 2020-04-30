@@ -1,0 +1,1 @@
+This is the folder with all my systems of design and implementation from faculty, it includes projects using different frameworks like angular and spring.

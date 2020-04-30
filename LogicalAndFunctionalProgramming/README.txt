@@ -1,0 +1,1 @@
+This is the folder with all my logical and fuctional programming from faculty, it includes lisp and prolog problems.

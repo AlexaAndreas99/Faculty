@@ -1,0 +1,1 @@
+This is the folder with all my artificial intelligence projects from faculty.
