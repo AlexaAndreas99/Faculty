@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Multi-level Menu</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+<div class="nav">
+    <input type="checkbox" id="menu"/>
+    <label for="menu" id="nav-icon">&#9776;</label>
+
+
+    <div class="multi-level">
+        <div class="item">
+            <input type="checkbox" id="A"/>
+            <img src="images/Arrow.png" class="arrow"><label for="A">Menu A</label>
+
+            <ul>
+                <li><a href="#">Submenu A.1</a></li>
+                <li><a href="#">Submenu A.2</a></li>
+                <li><a href="#">Submenu A.3</a></li>
+            </ul>
+        </div>
+        <div class="item">
+            <input type="checkbox" id="B"/>
+            <img src="images/Arrow.png" class="arrow"><label for="B">Menu B</label>
+
+            <ul>
+                <li>
+                    <div class="sub-item">
+                        <input type="checkbox" id="B-A"/>
+                        <img src="images/Arrow.png" class="arrow"><label for="B-A">Submenu B.1</label>
+
+                        <ul>
+                            <li><a href="#">Submenu B.1.1</a></li>
+                            <li><a href="#">Submenu B.1.2</a></li>
+                            <li><a href="#">Submenu B.1.3</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li>
+                    <div class="sub-item">
+                        <input type="checkbox" id="B-B"/>
+                        <img src="images/Arrow.png" class="arrow"><label for="B-B">Submenu B.2</label>
+
+                        <ul>
+                            <li><a href="#">Submenu B.2.1</a></li>
+                            <li><a href="#">Submenu B.2.2</a></li>
+                        </ul>
+
+                    </div>
+                </li>
+                <li><a href="#">Submenu B.3</a></li>
+                <li><a href="#">Submenu B.4</a></li>
+
+            </ul>
+        </div>
+        <div class="item">
+            <input type="checkbox" id="C"/>
+            <img src="images/Arrow.png" class="arrow"><label for="C">Menu C</label>
+
+            <ul>
+                <li><a href="#">Submenu C.1</a></li>
+                <li><a href="#">Submenu C.2</a></li>
+                <li><a href="#">Submenu C.3</a></li>
+            </ul>
+        </div>
+    </div>
+
+</div>
+</body>
+</html>
