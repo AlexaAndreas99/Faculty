@@ -1,0 +1,37 @@
+﻿  ui.c
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(27): warning C4047: 'function': 'TElem (__cdecl *)(TElem,TElem)' differs in levels of indirection from 'int (__cdecl *)(medication *,medication *)'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(27): warning C4022: 'add_DV': pointer mismatch for actual parameter 4
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(31): warning C4047: 'function': 'TElem (__cdecl *)(TElem,TElem)' differs in levels of indirection from 'int (__cdecl *)(medication *,medication *)'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(31): warning C4022: 'add_DV': pointer mismatch for actual parameter 4
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(35): warning C4047: 'function': 'TElem (__cdecl *)(TElem,TElem)' differs in levels of indirection from 'int (__cdecl *)(medication *,medication *)'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(35): warning C4022: 'add_DV': pointer mismatch for actual parameter 4
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(39): warning C4047: 'function': 'TElem (__cdecl *)(TElem,TElem)' differs in levels of indirection from 'int (__cdecl *)(medication *,medication *)'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(39): warning C4022: 'add_DV': pointer mismatch for actual parameter 4
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(43): warning C4047: 'function': 'TElem (__cdecl *)(TElem,TElem)' differs in levels of indirection from 'int (__cdecl *)(medication *,medication *)'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(43): warning C4022: 'add_DV': pointer mismatch for actual parameter 4
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(47): warning C4047: 'function': 'TElem (__cdecl *)(TElem,TElem)' differs in levels of indirection from 'int (__cdecl *)(medication *,medication *)'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(47): warning C4022: 'add_DV': pointer mismatch for actual parameter 4
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(51): warning C4047: 'function': 'TElem (__cdecl *)(TElem,TElem)' differs in levels of indirection from 'int (__cdecl *)(medication *,medication *)'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(51): warning C4022: 'add_DV': pointer mismatch for actual parameter 4
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(55): warning C4047: 'function': 'TElem (__cdecl *)(TElem,TElem)' differs in levels of indirection from 'int (__cdecl *)(medication *,medication *)'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(55): warning C4022: 'add_DV': pointer mismatch for actual parameter 4
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(59): warning C4047: 'function': 'TElem (__cdecl *)(TElem,TElem)' differs in levels of indirection from 'int (__cdecl *)(medication *,medication *)'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(59): warning C4022: 'add_DV': pointer mismatch for actual parameter 4
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(63): warning C4047: 'function': 'TElem (__cdecl *)(TElem,TElem)' differs in levels of indirection from 'int (__cdecl *)(medication *,medication *)'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(63): warning C4022: 'add_DV': pointer mismatch for actual parameter 4
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(94): warning C4047: 'function': 'TElem (__cdecl *)(TElem,TElem)' differs in levels of indirection from 'int (__cdecl *)(medication *,medication *)'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(94): warning C4022: 'add_DV': pointer mismatch for actual parameter 4
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(143): warning C4047: 'function': 'TElem (__cdecl *)(TElem,TElem)' differs in levels of indirection from 'int (__cdecl *)(medication *,medication *)'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(143): warning C4022: 'add_DV': pointer mismatch for actual parameter 4
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(200): warning C4028: formal parameter 2 different from declaration
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(221): warning C4028: formal parameter 2 different from declaration
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(239): warning C4047: 'function': 'char' differs in levels of indirection from 'char [50]'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(239): warning C4024: 'search': different types for formal and actual parameter 3
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(280): warning C4047: 'function': 'TElem (__cdecl *)(TElem,TElem)' differs in levels of indirection from 'int (__cdecl *)(medication *,medication *)'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(280): warning C4022: 'add_DV': pointer mismatch for actual parameter 4
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(294): warning C4028: formal parameter 2 different from declaration
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(320): warning C4047: 'function': 'TElem (__cdecl *)(TElem,TElem)' differs in levels of indirection from 'int (__cdecl *)(medication *,medication *)'
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(320): warning C4022: 'add_DV': pointer mismatch for actual parameter 4
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(335): warning C4028: formal parameter 2 different from declaration
+c:\users\andreas-pc\source\repos\as3-4\as3-4\ui.c(113): warning C4101: 'v': unreferenced local variable
+  as3-4.vcxproj -> C:\Users\Andreas-PC\source\repos\as3-4\Debug\as3-4.exe

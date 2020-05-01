@@ -1,0 +1,3 @@
+Block: qwe|1900|100|2
+House: rty|1800|duplex|0
+Block: asd|2015|100|2

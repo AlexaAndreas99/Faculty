@@ -1,0 +1,210 @@
+[0][Ref(int) v;new(v,10);new(v,20);print(ReadHeap(v));Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a))]
+[0]{}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][new(v,10);new(v,20);print(ReadHeap(v));Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a)), Ref(int) v]
+[0]{}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][new(v,10);new(v,20);print(ReadHeap(v));Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a)), Ref(int) v]
+[0]{}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][new(v,10);new(v,20);print(ReadHeap(v));Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a))]
+[0]{v=(0,int)}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][new(v,10);new(v,20);print(ReadHeap(v));Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a))]
+[0]{v=(0,int)}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][new(v,20);print(ReadHeap(v));Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a)), new(v,10)]
+[0]{v=(0,int)}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][new(v,20);print(ReadHeap(v));Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a)), new(v,10)]
+[0]{v=(0,int)}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][new(v,20);print(ReadHeap(v));Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a))]
+[0]{v=(1,int)}
+[0][]
+[0]{}
+[0]{1=10}
+
+
+[0][new(v,20);print(ReadHeap(v));Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a))]
+[0]{v=(1,int)}
+[0][]
+[0]{}
+[0]{1=10}
+
+
+[0][print(ReadHeap(v));Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a)), new(v,20)]
+[0]{v=(1,int)}
+[0][]
+[0]{}
+[0]{1=10}
+
+
+[0][print(ReadHeap(v));Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a)), new(v,20)]
+[0]{v=(1,int)}
+[0][]
+[0]{}
+[0]{1=10}
+
+
+[0][print(ReadHeap(v));Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a))]
+[0]{v=(2,int)}
+[0][]
+[0]{}
+[0]{1=10, 2=20}
+
+
+[0][print(ReadHeap(v));Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a))]
+[0]{v=(2,int)}
+[0][]
+[0]{}
+[0]{2=20}
+
+
+[0][Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a)), print(ReadHeap(v))]
+[0]{v=(2,int)}
+[0][]
+[0]{}
+[0]{2=20}
+
+
+[0][Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a)), print(ReadHeap(v))]
+[0]{v=(2,int)}
+[0][]
+[0]{}
+[0]{2=20}
+
+
+[0][Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a))]
+[0]{v=(2,int)}
+[0][20]
+[0]{}
+[0]{2=20}
+
+
+[0][Ref(int) a;new(a,30);new(a,40);print(ReadHeap(a))]
+[0]{v=(2,int)}
+[0][20]
+[0]{}
+[0]{2=20}
+
+
+[0][new(a,30);new(a,40);print(ReadHeap(a)), Ref(int) a]
+[0]{v=(2,int)}
+[0][20]
+[0]{}
+[0]{2=20}
+
+
+[0][new(a,30);new(a,40);print(ReadHeap(a)), Ref(int) a]
+[0]{v=(2,int)}
+[0][20]
+[0]{}
+[0]{2=20}
+
+
+[0][new(a,30);new(a,40);print(ReadHeap(a))]
+[0]{a=(0,int), v=(2,int)}
+[0][20]
+[0]{}
+[0]{2=20}
+
+
+[0][new(a,30);new(a,40);print(ReadHeap(a))]
+[0]{a=(0,int), v=(2,int)}
+[0][20]
+[0]{}
+[0]{2=20}
+
+
+[0][new(a,40);print(ReadHeap(a)), new(a,30)]
+[0]{a=(0,int), v=(2,int)}
+[0][20]
+[0]{}
+[0]{2=20}
+
+
+[0][new(a,40);print(ReadHeap(a)), new(a,30)]
+[0]{a=(0,int), v=(2,int)}
+[0][20]
+[0]{}
+[0]{2=20}
+
+
+[0][new(a,40);print(ReadHeap(a))]
+[0]{a=(1,int), v=(2,int)}
+[0][20]
+[0]{}
+[0]{1=30, 2=20}
+
+
+[0][new(a,40);print(ReadHeap(a))]
+[0]{a=(1,int), v=(2,int)}
+[0][20]
+[0]{}
+[0]{1=30, 2=20}
+
+
+[0][print(ReadHeap(a)), new(a,40)]
+[0]{a=(1,int), v=(2,int)}
+[0][20]
+[0]{}
+[0]{1=30, 2=20}
+
+
+[0][print(ReadHeap(a)), new(a,40)]
+[0]{a=(1,int), v=(2,int)}
+[0][20]
+[0]{}
+[0]{1=30, 2=20}
+
+
+[0][print(ReadHeap(a))]
+[0]{a=(3,int), v=(2,int)}
+[0][20]
+[0]{}
+[0]{1=30, 2=20, 3=40}
+
+
+[0][print(ReadHeap(a))]
+[0]{a=(3,int), v=(2,int)}
+[0][20]
+[0]{}
+[0]{2=20, 3=40}
+
+
+[0][]
+[0]{a=(3,int), v=(2,int)}
+[0][20, 40]
+[0]{}
+[0]{2=20, 3=40}
+
+

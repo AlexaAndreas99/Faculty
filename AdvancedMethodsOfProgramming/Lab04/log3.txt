@@ -1,0 +1,198 @@
+[[bool a;int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+{}
+[]
+{}
+]
+
+[[int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v), bool a]
+{}
+[]
+{}
+]
+
+[[int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+{a=false}
+[]
+{}
+]
+
+[[a=true;IF(a) THEN(v=2)ELSE(v=3);print(v), int v]
+{a=false}
+[]
+{}
+]
+
+[[a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+{a=false, v=0}
+[]
+{}
+]
+
+[[IF(a) THEN(v=2)ELSE(v=3);print(v), a=true]
+{a=false, v=0}
+[]
+{}
+]
+
+[[IF(a) THEN(v=2)ELSE(v=3);print(v)]
+{a=true, v=0}
+[]
+{}
+]
+
+[[print(v), IF(a) THEN(v=2)ELSE(v=3)]
+{a=true, v=0}
+[]
+{}
+]
+
+[[print(v), v=2]
+{a=true, v=0}
+[]
+{}
+]
+
+[[print(v)]
+{a=true, v=2}
+[]
+{}
+]
+
+[[]
+{a=true, v=2}
+[2]
+{}
+]
+
+[[bool a;int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+{}
+[]
+{}
+]
+
+[[int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v), bool a]
+{}
+[]
+{}
+]
+
+[[int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+{a=false}
+[]
+{}
+]
+
+[[a=true;IF(a) THEN(v=2)ELSE(v=3);print(v), int v]
+{a=false}
+[]
+{}
+]
+
+[[a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+{a=false, v=0}
+[]
+{}
+]
+
+[[IF(a) THEN(v=2)ELSE(v=3);print(v), a=true]
+{a=false, v=0}
+[]
+{}
+]
+
+[[IF(a) THEN(v=2)ELSE(v=3);print(v)]
+{a=true, v=0}
+[]
+{}
+]
+
+[[print(v), IF(a) THEN(v=2)ELSE(v=3)]
+{a=true, v=0}
+[]
+{}
+]
+
+[[print(v), v=2]
+{a=true, v=0}
+[]
+{}
+]
+
+[[print(v)]
+{a=true, v=2}
+[]
+{}
+]
+
+[[]
+{a=true, v=2}
+[2]
+{}
+]
+
+[[bool a;int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+{}
+[]
+{}
+]
+
+[[int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v), bool a]
+{}
+[]
+{}
+]
+
+[[int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+{a=false}
+[]
+{}
+]
+
+[[a=true;IF(a) THEN(v=2)ELSE(v=3);print(v), int v]
+{a=false}
+[]
+{}
+]
+
+[[a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+{a=false, v=0}
+[]
+{}
+]
+
+[[IF(a) THEN(v=2)ELSE(v=3);print(v), a=true]
+{a=false, v=0}
+[]
+{}
+]
+
+[[IF(a) THEN(v=2)ELSE(v=3);print(v)]
+{a=true, v=0}
+[]
+{}
+]
+
+[[print(v), IF(a) THEN(v=2)ELSE(v=3)]
+{a=true, v=0}
+[]
+{}
+]
+
+[[print(v), v=2]
+{a=true, v=0}
+[]
+{}
+]
+
+[[print(v)]
+{a=true, v=2}
+[]
+{}
+]
+
+[[]
+{a=true, v=2}
+[2]
+{}
+]
+

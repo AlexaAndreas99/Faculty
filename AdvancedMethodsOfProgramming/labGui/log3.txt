@@ -1,0 +1,280 @@
+[0][bool a;int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+[0]{}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v), bool a]
+[0]{}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v), bool a]
+[0]{}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+[0]{a=false}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+[0]{a=false}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][a=true;IF(a) THEN(v=2)ELSE(v=3);print(v), int v]
+[0]{a=false}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][a=true;IF(a) THEN(v=2)ELSE(v=3);print(v), int v]
+[0]{a=false}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+[0]{a=false, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+[0]{a=false, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][IF(a) THEN(v=2)ELSE(v=3);print(v), a=true]
+[0]{a=false, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][IF(a) THEN(v=2)ELSE(v=3);print(v), a=true]
+[0]{a=false, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][IF(a) THEN(v=2)ELSE(v=3);print(v)]
+[0]{a=true, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][IF(a) THEN(v=2)ELSE(v=3);print(v)]
+[0]{a=true, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][print(v), IF(a) THEN(v=2)ELSE(v=3)]
+[0]{a=true, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][print(v), IF(a) THEN(v=2)ELSE(v=3)]
+[0]{a=true, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][print(v), v=2]
+[0]{a=true, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][print(v), v=2]
+[0]{a=true, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][print(v)]
+[0]{a=true, v=2}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][print(v)]
+[0]{a=true, v=2}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][]
+[0]{a=true, v=2}
+[0][2]
+[0]{}
+[0]{}
+
+
+[0][bool a;int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+[0]{}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v), bool a]
+[0]{}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v), bool a]
+[0]{}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+[0]{a=false}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][int v;a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+[0]{a=false}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][a=true;IF(a) THEN(v=2)ELSE(v=3);print(v), int v]
+[0]{a=false}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][a=true;IF(a) THEN(v=2)ELSE(v=3);print(v), int v]
+[0]{a=false}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+[0]{a=false, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][a=true;IF(a) THEN(v=2)ELSE(v=3);print(v)]
+[0]{a=false, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][IF(a) THEN(v=2)ELSE(v=3);print(v), a=true]
+[0]{a=false, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][IF(a) THEN(v=2)ELSE(v=3);print(v), a=true]
+[0]{a=false, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][IF(a) THEN(v=2)ELSE(v=3);print(v)]
+[0]{a=true, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][IF(a) THEN(v=2)ELSE(v=3);print(v)]
+[0]{a=true, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][print(v), IF(a) THEN(v=2)ELSE(v=3)]
+[0]{a=true, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][print(v), IF(a) THEN(v=2)ELSE(v=3)]
+[0]{a=true, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][print(v), v=2]
+[0]{a=true, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][print(v), v=2]
+[0]{a=true, v=0}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][print(v)]
+[0]{a=true, v=2}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][print(v)]
+[0]{a=true, v=2}
+[0][]
+[0]{}
+[0]{}
+
+
+[0][]
+[0]{a=true, v=2}
+[0][2]
+[0]{}
+[0]{}
+
+

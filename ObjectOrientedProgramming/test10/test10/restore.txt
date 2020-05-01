@@ -1,0 +1,2 @@
+Block: asd|1900|100|90
+House: rty|1800|duplex|0

@@ -1,0 +1,10 @@
+Kido,Yorkshire,4,https://imgur.com/a/d1ZRGQX
+Misha,Chowchow,2,https://imgur.com/a/NhcFpiL
+Zenda,Labrador,2,https://imgur.com/gallery/jCuqmYx
+Bigghy,Beagle,2,https://imgur.com/gallery/EdQs9jA
+Mimi,Teckel,1,https://imgur.com/gallery/6t6Q6MN
+Oreo,Yorkshire,1,https://imgur.com/gallery/9TLrcyi
+Merlin,Chiuaua,3,https://imgur.com/gallery/dNDYKMZ
+Oly,Bischon,3,https://imgur.com/gallery/AaYGNZb
+Bruno,German Shepherd,4,https://imgur.com/t/german_shepherd/Vln2ZAg
+Ricky,Yorkshire,2,https://imgur.com/gallery/GxDTsRg

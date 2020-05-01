@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="504f6847-64ed-40ab-b8da-05ad7c45447e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SYZmu2sBfpxK8LjGJuDXacjvHX" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../labGui" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="View.start" />
+      <module name="Lab04" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="504f6847-64ed-40ab-b8da-05ad7c45447e" name="Default Changelist" comment="" />
+      <created>1571742652051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571742652051</updated>
+      <workItem from="1571742660240" duration="3497000" />
+      <workItem from="1571906808587" duration="2773000" />
+      <workItem from="1572250425824" duration="4466000" />
+      <workItem from="1572515811593" duration="10774000" />
+      <workItem from="1572854461812" duration="6324000" />
+      <workItem from="1573120855440" duration="2811000" />
+      <workItem from="1573387017117" duration="5916000" />
+      <workItem from="1573723817538" duration="7323000" />
+      <workItem from="1574064190947" duration="8703000" />
+      <workItem from="1574176274013" duration="12072000" />
+      <workItem from="1574355245015" duration="9962000" />
+      <workItem from="1574427214736" duration="78000" />
+      <workItem from="1574541272606" duration="293000" />
+      <workItem from="1574669130764" duration="10922000" />
+      <workItem from="1574931047778" duration="6541000" />
+      <workItem from="1575106026238" duration="6157000" />
+      <workItem from="1575365726808" duration="2114000" />
+      <workItem from="1575879203573" duration="5808000" />
+      <workItem from="1576139891858" duration="3106000" />
+      <workItem from="1576483322889" duration="2197000" />
+      <workItem from="1577360744928" duration="1830000" />
+      <workItem from="1577445837209" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="600.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.MainWController">
+   <children>
+      <TableView fx:id="SymbloTableT" layoutX="711.0" layoutY="69.0" prefHeight="200.0" prefWidth="148.0">
+        <columns>
+          <TableColumn fx:id="STName" prefWidth="72.0" text="Name" />
+          <TableColumn fx:id="STValue" prefWidth="79.20001220703125" text="Value" />
+        </columns>
+      </TableView>
+      <Label alignment="CENTER" layoutX="710.0" layoutY="44.0" prefHeight="18.0" prefWidth="148.0" text="SymbolTable" textAlignment="JUSTIFY" />
+      <TableView fx:id="HeapT" layoutX="711.0" layoutY="322.0" prefHeight="200.0" prefWidth="148.0">
+        <columns>
+          <TableColumn fx:id="HAddress" prefWidth="73.20001220703125" text="Address" />
+          <TableColumn fx:id="HValue" prefWidth="77.199951171875" text="Value" />
+        </columns>
+      </TableView>
+      <Label alignment="CENTER" layoutX="710.0" layoutY="295.0" prefHeight="18.0" prefWidth="148.0" text="Heap" textAlignment="CENTER" />
+      <ListView fx:id="OutTableL" layoutX="534.0" layoutY="69.0" prefHeight="200.0" prefWidth="148.0" />
+      <Label alignment="CENTER" layoutX="534.0" layoutY="44.0" prefHeight="18.0" prefWidth="148.0" text="OutTable" />
+      <ListView fx:id="FileTableL" layoutX="534.0" layoutY="322.0" prefHeight="200.0" prefWidth="148.0" />
+      <Label alignment="CENTER" layoutX="534.0" layoutY="295.0" prefHeight="18.0" prefWidth="148.0" text="FileTable" />
+      <TextField fx:id="NoPrgStates" layoutX="360.0" layoutY="69.0" prefHeight="11.0" prefWidth="90.0" />
+      <Label layoutX="359.0" layoutY="45.0" prefHeight="18.0" prefWidth="90.0" text="No. of PrgStates" />
+      <ListView fx:id="PrgStatesL" layoutX="361.0" layoutY="106.0" prefHeight="94.0" prefWidth="90.0" />
+      <ListView fx:id="ExeStackL" layoutX="49.0" layoutY="106.0" prefHeight="272.0" prefWidth="270.0" />
+      <Label alignment="CENTER" layoutX="50.0" layoutY="86.0" prefHeight="18.0" prefWidth="270.0" text="ExeStack" />
+      <Button fx:id="ExeB" layoutX="361.0" layoutY="228.0" mnemonicParsing="false" onAction="#executeOneStep" prefHeight="26.0" prefWidth="90.0" text="Run one step" />
+   </children>
+</AnchorPane>

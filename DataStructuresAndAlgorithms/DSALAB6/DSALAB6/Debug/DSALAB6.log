@@ -1,0 +1,8 @@
+﻿  Set.cpp
+c:\users\andreas-pc\source\repos\dsalab6\dsalab6\setiterator.h(4): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+c:\users\andreas-pc\source\repos\dsalab6\dsalab6\set.h(13): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+  SetIterator.cpp
+c:\users\andreas-pc\source\repos\dsalab6\dsalab6\set.h(13): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+c:\users\andreas-pc\source\repos\dsalab6\dsalab6\setiterator.h(4): warning C4091: 'typedef ': ignored on left of 'Node' when no variable is declared
+  Generating Code...
+  DSALAB6.vcxproj -> C:\Users\Andreas-PC\source\repos\DSALAB6\Debug\DSALAB6.exe

@@ -1,0 +1,288 @@
+[[int a;int b;a=true+3*5;b=a+1;print(b)]
+{}
+[]
+{}
+]
+
+[[int b;a=true+3*5;b=a+1;print(b), int a]
+{}
+[]
+{}
+]
+
+[[int b;a=true+3*5;b=a+1;print(b)]
+{a=0}
+[]
+{}
+]
+
+[[a=true+3*5;b=a+1;print(b), int b]
+{a=0}
+[]
+{}
+]
+
+[[a=true+3*5;b=a+1;print(b)]
+{b=0, a=0}
+[]
+{}
+]
+
+[[b=a+1;print(b), a=true+3*5]
+{b=0, a=0}
+[]
+{}
+]
+
+[[int a;int b;a=true+3*5;b=a+1;print(b)]
+{}
+[]
+{}
+]
+
+[[int b;a=true+3*5;b=a+1;print(b), int a]
+{}
+[]
+{}
+]
+
+[[int b;a=true+3*5;b=a+1;print(b)]
+{a=0}
+[]
+{}
+]
+
+[[a=true+3*5;b=a+1;print(b), int b]
+{a=0}
+[]
+{}
+]
+
+[[a=true+3*5;b=a+1;print(b)]
+{b=0, a=0}
+[]
+{}
+]
+
+[[b=a+1;print(b), a=true+3*5]
+{b=0, a=0}
+[]
+{}
+]
+
+[[int a;int b;a=true+3*5;b=a+1;print(b)]
+{}
+[]
+{}
+]
+
+[[int b;a=true+3*5;b=a+1;print(b), int a]
+{}
+[]
+{}
+]
+
+[[int b;a=true+3*5;b=a+1;print(b)]
+{a=0}
+[]
+{}
+]
+
+[[a=true+3*5;b=a+1;print(b), int b]
+{a=0}
+[]
+{}
+]
+
+[[a=true+3*5;b=a+1;print(b)]
+{b=0, a=0}
+[]
+{}
+]
+
+[[b=a+1;print(b), a=true+3*5]
+{b=0, a=0}
+[]
+{}
+]
+
+[[int a;int b;a=2+3*5;b=a+1;print(b)]
+{}
+[]
+{}
+]
+
+[[int b;a=2+3*5;b=a+1;print(b), int a]
+{}
+[]
+{}
+]
+
+[[int b;a=2+3*5;b=a+1;print(b)]
+{a=0}
+[]
+{}
+]
+
+[[a=2+3*5;b=a+1;print(b), int b]
+{a=0}
+[]
+{}
+]
+
+[[a=2+3*5;b=a+1;print(b)]
+{b=0, a=0}
+[]
+{}
+]
+
+[[b=a+1;print(b), a=2+3*5]
+{b=0, a=0}
+[]
+{}
+]
+
+[[b=a+1;print(b)]
+{b=0, a=17}
+[]
+{}
+]
+
+[[print(b), b=a+1]
+{b=0, a=17}
+[]
+{}
+]
+
+[[print(b)]
+{b=18, a=17}
+[]
+{}
+]
+
+[[]
+{b=18, a=17}
+[18]
+{}
+]
+
+[[int a;int b;a=2+3*5;b=a+1;print(b)]
+{}
+[]
+{}
+]
+
+[[int b;a=2+3*5;b=a+1;print(b), int a]
+{}
+[]
+{}
+]
+
+[[int b;a=2+3*5;b=a+1;print(b)]
+{a=0}
+[]
+{}
+]
+
+[[a=2+3*5;b=a+1;print(b), int b]
+{a=0}
+[]
+{}
+]
+
+[[a=2+3*5;b=a+1;print(b)]
+{b=0, a=0}
+[]
+{}
+]
+
+[[b=a+1;print(b), a=2+3*5]
+{b=0, a=0}
+[]
+{}
+]
+
+[[b=a+1;print(b)]
+{b=0, a=17}
+[]
+{}
+]
+
+[[print(b), b=a+1]
+{b=0, a=17}
+[]
+{}
+]
+
+[[print(b)]
+{b=18, a=17}
+[]
+{}
+]
+
+[[]
+{b=18, a=17}
+[18]
+{}
+]
+
+[[int a;int b;a=2+3*5;b=a+1;print(b)]
+{}
+[]
+{}
+]
+
+[[int b;a=2+3*5;b=a+1;print(b), int a]
+{}
+[]
+{}
+]
+
+[[int b;a=2+3*5;b=a+1;print(b)]
+{a=0}
+[]
+{}
+]
+
+[[a=2+3*5;b=a+1;print(b), int b]
+{a=0}
+[]
+{}
+]
+
+[[a=2+3*5;b=a+1;print(b)]
+{b=0, a=0}
+[]
+{}
+]
+
+[[b=a+1;print(b), a=2+3*5]
+{b=0, a=0}
+[]
+{}
+]
+
+[[b=a+1;print(b)]
+{b=0, a=17}
+[]
+{}
+]
+
+[[print(b), b=a+1]
+{b=0, a=17}
+[]
+{}
+]
+
+[[print(b)]
+{b=18, a=17}
+[]
+{}
+]
+
+[[]
+{b=18, a=17}
+[18]
+{}
+]
+
