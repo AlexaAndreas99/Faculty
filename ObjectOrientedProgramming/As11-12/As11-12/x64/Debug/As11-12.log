@@ -1,0 +1,19 @@
+﻿  As1112.cpp
+  Comparator.cpp
+  Controller.cpp
+  CSVRepo.cpp
+  Dog.cpp
+  DogModel.cpp
+  Except.cpp
+  FileRepo.cpp
+  Gui.cpp
+  HTMLRepo.cpp
+  main.cpp
+  Repo.cpp
+  SecondWindow.cpp
+  Undo.cpp
+  Util.cpp
+  qrc_As1112.cpp
+  moc_Gui.cpp
+  moc_SecondWindow.cpp
+  As11-12.vcxproj -> C:\Users\Andreas-PC\source\repos\As11-12\x64\Debug\As11-12.exe
