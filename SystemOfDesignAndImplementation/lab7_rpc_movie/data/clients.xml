@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+    <client id="1">
+        <cnp>1990102121212</cnp>
+        <name>Gigel</name>
+    </client>
+    <client id="2"><cnp>1990304131313</cnp><name>Salam</name></client>
+</root>
